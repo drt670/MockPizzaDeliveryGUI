@@ -1,5 +1,5 @@
 # MockPizzaDeliveryGUI
-Functional pizza delivery system created using java with an embedded GUI created using SceneBuilder.
+Functional pizza delivery system developed using java with an embedded GUI created using SceneBuilder.
 
 To Run:
 
